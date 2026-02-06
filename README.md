@@ -7,7 +7,7 @@ Founder @ DevnCode — Connecting Developers, City by City
 
 I help engineering teams fix bottlenecks, improve culture, and adopt AI-first workflows.
 
-Over the past 19 years, I’ve evolved from textile operations → software architect → engineering manager → product & engineering leader → community builder.
+Over the past 20 years, I’ve evolved from textile operations → software architect → engineering manager → product & engineering leader → community builder.
 
 Today I focus on:
 
@@ -52,6 +52,6 @@ I regularly speak at meetups and events about:
 
 ## 🌍 Connect
 
-- LinkedIn
-- GitHub
-- DevnCode
+- [LinkedIn](https://www.linkedin.com/in/smkamranqadri/])
+- [GitHub](https://github.com/smkamranqadri)
+- [devncode](https://devncode.tech/)
