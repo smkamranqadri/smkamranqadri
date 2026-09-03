@@ -4,8 +4,6 @@ I’m a **Product Engineer** building across web, mobile, and AI-native software
 
 I work at the intersection of **product ideas, software systems, and team execution** — staying close to the build while working through product trade-offs, architecture, ownership, and the systems that help teams keep shipping.
 
-> **I turn product ideas into software — and teams into systems that can keep shipping.**
-
 I’m especially interested in **0→1 problems**, small teams, and products where the path forward still needs to be figured out.
 
 [Website](https://kamranqadri.com) · [LinkedIn](https://www.linkedin.com/in/smkamranqadri/) · [X](https://x.com/smkamranqadri)
