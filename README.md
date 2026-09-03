@@ -40,16 +40,16 @@ It explores the workflow layer around coding agents: how they retain context, un
 
 ## What I work with
 
-**Product engineering**
+**Product engineering**  
 Web · Mobile · APIs · Product systems · 0→1 development
 
-**Software**
+**Software**  
 TypeScript · JavaScript · Node.js · NestJS · React · Angular · React Native · Flutter
 
-**Systems**
+**Systems**  
 MongoDB · Docker · AWS · Architecture · Distributed systems
 
-**Current experiments**
+**Current experiments**  
 Rust · Tauri · Local LLMs · Coding agents · Multi-agent orchestration · Tool use · Context and memory
 
 ---
