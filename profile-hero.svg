@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Product engineering systems</title>
+  <desc id="desc">A dark static illustration of connected product, code, and agent-system nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <path d="M40 210 C210 90 300 245 470 128 S745 66 895 160 1050 185 1160 72" fill="none" stroke="#334155" stroke-width="2"/>
+  <path d="M40 210 C210 90 300 245 470 128 S745 66 895 160 1050 185 1160 72" fill="none" stroke="url(#glow)" stroke-width="3" stroke-dasharray="2 18" stroke-linecap="round"/>
+  <g fill="#0f172a" stroke="url(#glow)" stroke-width="3">
+    <circle cx="150" cy="151" r="38"/><circle cx="355" cy="190" r="38"/><circle cx="550" cy="108" r="38"/><circle cx="760" cy="93" r="38"/><circle cx="950" cy="173" r="38"/><circle cx="1090" cy="112" r="38"/>
+  </g>
+  <g fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" text-anchor="middle">
+    <text x="150" y="158">IDEA</text><text x="355" y="197">BUILD</text><text x="550" y="115">TEST</text><text x="760" y="100">SHIP</text><text x="950" y="180">LEARN</text><text x="1090" y="119">0→1</text>
+  </g>
+  <text x="56" y="62" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="700">Product engineering · AI-native systems · shipped details</text>
+  <text x="58" y="94" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="17">A small proof shelf of tools, workflows, and experiments</text>
+</svg>
