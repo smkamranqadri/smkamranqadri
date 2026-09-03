@@ -10,7 +10,7 @@ I’m especially interested in **0→1 problems**, small teams, and products whe
 
 [Website](https://kamranqadri.com) · [LinkedIn](https://www.linkedin.com/in/smkamranqadri/) · [X](https://x.com/smkamranqadri)
 
-![Product engineering systems: idea, build, test, ship, learn, 0→1](./assets/profile-hero.svg)
+![Product engineering systems: idea, build, test, ship, learn, 0→1](./profile-hero.svg)
 
 ---
 
